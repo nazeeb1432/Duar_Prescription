@@ -1,5 +1,3 @@
-## Doctor Appointment Booking System
-
 ## Overview
 
 This project is a full-stack doctor appointment booking system built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).
